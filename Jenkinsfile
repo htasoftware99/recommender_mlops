@@ -10,7 +10,7 @@ pipeline {
 
     stages{
 
-        stage("Cloning from Github...."){
+        stage("Cloning from Github..."){
             steps{
                 script{
                     echo 'Cloning from Github...'
