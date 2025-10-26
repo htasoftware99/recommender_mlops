@@ -1,0 +1,10 @@
+logs
+notebook
+recommender_mlops_system.egg-info
+src/__pycache__
+venv
+artifacts/raw
+artifacts/processed
+artifacts/model
+artifacts/weights
+artifacts/model_checkpoint
