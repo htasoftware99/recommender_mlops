@@ -15,7 +15,7 @@ class ModelTraining:
         self.data_path= data_path
 
         self.experiment = comet_ml.Experiment(
-            api_key="mDcoLowwYQNujRLqAzHcJSphf",
+            api_key="your_cometml_key",
             project_name="anime-recommender",
             workspace="htasoftware99"
         )
